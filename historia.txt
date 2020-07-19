@@ -2,8 +2,12 @@ Esta es la historia de Mina.
 
 Mina tiene 22 meses y nació en Usme pero vive en Bosa.
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida y obra maestra.
 
 Es muy fotogénica y camina como en pasarela. 
 
 Hoy salio a tomar el sol.
+=======
+Mañana nos enfocaremos en su historia laboral.
+>>>>>>> cabecera
